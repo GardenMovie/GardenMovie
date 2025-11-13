@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Garden, a CS student and game developer based in Brazil
+
+- 🎮️ I'm currently working on educational games about the polar regions for children in the early years of education
+- 🧰 The tools I use for game development are Unity, NeoVim, git and Gimp
+
 <!--
 **GardenMovie/GardenMovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
