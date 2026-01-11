@@ -1,9 +1,26 @@
-## Hi there 👋
 
-I'm Garden, a CS student and game developer based in Brazil
+# GardenMovie
 
-- 🎮️ I'm currently working on educational games about the polar regions for children in the early years of education
-- 🧰 The tools I use for game development are Unity, NeoVim, git and Gimp
+## About Me
+
+Hello! I'm Dody, a full-stack developer based in Brazil. Fluent in English and Portuguese and an EU citizen.
+
+20 year old, currently in my third year of a dual Bachelor's degree in Computer Science and Science & Technology at the Federal University of ABC (UFABC). I also completed a 9-month internship at InterAntar as a game developer in 2025.
+
+During these experiences, I had the opportunity to work on group projects, organize events, and create educational games for children.
+
+## Technologies & Tools
+
+- Python
+- C#
+- TypeScript
+- Docker
+- Linux
+- React
+
+---
+
+Feel free to reach out if you're interested in collaborating or have opportunities in Latin America or Europe!
 
 <!--
 **GardenMovie/GardenMovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
